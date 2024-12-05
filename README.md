@@ -13,10 +13,10 @@ The diagnosis of leukemia typically involves: physical examination, blood tests 
 The prognosis of leukemia varies depending on the type of leukemia. The key prognostic factors that physicians consider before predicting a patients clincal outcome include: age of patient, white blood cell count at diagnosis, cytogenic abnormalities, response to initial treatment, presence of minimal residual disease after treatment, and various comorbidities. 
 
 #### Frontline Treatments
-Treatment options for leukeumia include: Chemotherapy, Targeted Therapy using drugs focused on specific abnormalities within cancer cells (tyrosine kinase inhibitors, FLT3 inhibitors and IDH inhibitors, BCL-2 inhibitors, Ziftomenib or Revumenib are common examples), Immunotherapy, Stem Cell Transplantation, Radiation Therapy, and various clinica trials. 
+Treatment options for leukeumia include: Chemotherapy, Targeted Therapy using drugs focused on specific abnormalities within cancer cells (tyrosine kinase inhibitors, FLT3 inhibitors and IDH inhibitors, BCL-2 inhibitors, Ziftomenib or Revumenib are common examples), Immunotherapy, Stem Cell Transplantation, Radiation Therapy, and various clinical trials. 
 
 #### Criteria for Successful Treatment
-Success of treatment can be measured by the achievement of complete remission, minimal residual diease negativity, overall survival and disease-free survival, and overall quality of life improvements. 
+Success of treatment can be measured by the achievement of complete remission, minimal residual disease negativity, overall survival and disease-free survival, and overall quality of life improvements. 
 
 #### Options if Frontline Therapy Fails
 If the initial treatment is unsuccessful, options include: beginning alternative chemotheraphy regiments, clincal trials of new drugs or unique combinations, stem cell transplantation (if not done initially), CAR T-cell therapy, and Palliatve care for sympom management.
