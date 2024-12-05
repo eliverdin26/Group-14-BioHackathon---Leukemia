@@ -10,7 +10,17 @@ From a clinical perspective some common symptoms of leukemia include: fatige and
 The diagnosis of leukemia typically involves: physical examination, blood tests (CBC and peripheral blood smear), bone marrow biopsies, cytogenetic analysis, immunophenotyping, and various molecular testing for genetic abnormalities. 
 
 #### Prognostic Criteria
-The prognosis of leukemia varies depending on the type of leukemmia. The key prognostic factors that physicians consider before predicting a patients clincal outcome include: age of patient
+The prognosis of leukemia varies depending on the type of leukemmia. The key prognostic factors that physicians consider before predicting a patients clincal outcome include: age of patient, white blood cell count at diagnosis, cytogenic abnormalities, response to initial treatment, presence of minimal residual diisease after treatment, and various comorbidities. 
+
+#### Frontline Treatments
+Treatment options for leukeumia include: Chemotherapy, Targeted Therapy using drugs focused on specific abnormalities within cancer cells (tyrosine kinase inhibitors, FLT3 inhibitors and IDH inhibitors, BCL-2 inhibitors, Ziftomenib or Revumenib are common examples), Immunotherapy, Stem Cell Transplantation, Radiation Therapy, and various clinica trials. 
+
+#### Criteria for Successful Treatment
+Success of treatment can be measured by the achievement of complete remission, minimal residual diease negativity, overall survival and disease-free survival, and overall quality of life improvements. 
+
+#### Options if Frontline Therapy Fails
+
+#### Organs Involved in Leukemia Expression
 
 
 ## Genes Underlying Leukemia
