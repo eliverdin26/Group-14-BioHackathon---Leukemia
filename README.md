@@ -1,11 +1,11 @@
 # Group-14-BioHackathon---Leukemia
 
-## Task B - Leukemia Overview
+## Leukemia Overview
 
-## Task C - Genes Underlying Leukemia
+## Genes Underlying Leukemia
 
-## Task D - Protein-Protein Interaction (PPI) Network
+## Protein-Protein Interaction (PPI) Network
 
-## Task E - Tissue Specific eQTL's
+## Tissue Specific eQTL's
 
-## Task F - Hypothesis
+## Hypothesis
