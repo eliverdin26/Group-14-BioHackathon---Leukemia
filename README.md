@@ -19,9 +19,16 @@ Treatment options for leukeumia include: Chemotherapy, Targeted Therapy using dr
 Success of treatment can be measured by the achievement of complete remission, minimal residual diease negativity, overall survival and disease-free survival, and overall quality of life improvements. 
 
 #### Options if Frontline Therapy Fails
+If the initial treatment is unsuccessful, options include: beginning alternative chemotheraphy regiments, clincal trials of new drugs or unique combinations, stem cell transplantation (if not done initially), CAR T-cell therapy, and Palliatve care for sympom management.
 
 #### Organs Involved in Leukemia Expression
-
+Leukemia primarily affects the blood-forming tissues and organs:
+1. Bone marrow: Primary site of leukemia development
+2. Blood: Circulating leukemic cells affect the entire body
+3. Lymph Nodes: Often enlarged due to accumulation of leukemic cells
+4. Spleen: Also may become enlarged (splenomegaly)
+5. Liver: Can be affected, leading to an enlarged liver (hepatomegaly)
+6. Central Nervous System: In some cases, leukemia can spread to the brain and spinal cord.
 
 ## Genes Underlying Leukemia
 Leukemia is associated with the following abnormally expressed genes: 
