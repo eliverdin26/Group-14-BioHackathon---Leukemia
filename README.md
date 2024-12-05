@@ -14,6 +14,18 @@ The prognosis of leukemia varies depending on the type of leukemmia. The key pro
 
 
 ## Genes Underlying Leukemia
+Leukemia is associated with the following abnormally expressed genes: 
+1. FLT3
+2. NPM1
+3. DNMT3A
+4. IDH1
+5. IDH2
+6. TET2
+7. RUNX1
+8. CEBPA
+9. WT1
+10. KIT
+11. MLL
 
 ## Protein-Protein Interaction (PPI) Network
 
