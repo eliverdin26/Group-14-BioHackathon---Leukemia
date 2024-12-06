@@ -44,6 +44,12 @@ Leukemia is associated with the following abnormally expressed genes:
 10. KIT
 11. MLL
 
+Promethus was used to aquire this list. Below are the prompts that were used:
+* From a molecular perspective, what genes are associated with Leukemia?
+* When are these genes normally expressed in development and in what tissue are they expressed?
+* When are these genes abnormally expressed in Leukemia and in what tissue are they misexpressed?
+* What is the molecular function of the genes that are abnormally expressed that lead to Leukemia?
+
 ## Protein-Protein Interaction (PPI) Network
 
 ## Tissue Specific eQTL's
