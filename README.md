@@ -53,5 +53,16 @@ Promethus was used to aquire this list. Below are the prompts that were used:
 ## Protein-Protein Interaction (PPI) Network
 
 ## Tissue Specific eQTL's
+1. Significant eQTLs have been identified in whole blood for FLT3 1 (Fms Related Receptor Tyrosine Kinase 3): Mutations in the FLT3 occur frequently with mutations in some other genes, especially the DNMT3A gene which is also another gene that is abnormally expressed that is associated with Leukemia:
+      -SNP: rs2504232
+      -p-value: 0.0000028
+      -Effect Size: -0.11
+2. NPM1 is expressed in whole blood but no significant eQTL's in whole blood was found.
+3. DNMT3A has significant eQTLs in whole blood 1. Mutations in DNMT3A are often found in conjunction with FLT3 mutations in acute myeloid leukemia (AML). Ex eQTL:
+      -SNP: rs4563176
+      -p-value: 0.0000054
+      -Effect Size: -0.27
+4. Both IDH1 and IDH2 have eQTLs identified in whole blood 1. Mutations in these genes are known to affect hematopoiesis and play a role in leukemogenesis.
+5. TET2 has significant eQTLs in whole blood 1. Mutations in TET2, along with DNMT3A and IDH1/2, are known to affect hematopoiesis and contribute to the development of pre-leukemic stem cells.
 
 ## Hypothesis
