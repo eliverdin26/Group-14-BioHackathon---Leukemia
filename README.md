@@ -60,7 +60,8 @@ There are several differences in PPI and gene co-expression networks including t
 
 To find the interacting proteins with a seed gene, the EBI Intact database should be used. This database is a publicly available database for protein interactions. The seed gene or UniProt accession number can be used to access all known interacting proteins. The different types of interactions such as binding, enzymatic regulation, or proximity will be displayed. The EBI Intact database is also linked to Cytoscape which can find interacting proteins with seed genes and directly import the data. Cytoscape and then be used for enrichment analysis and to build data visualizations. 
 This is an example of the PPI network for underlying genes related to leukemia. 
- 
+![image](https://github.com/user-attachments/assets/88edf1dc-8313-412d-9e7f-86bc939a0490)
+
 * How can I visualize and analyze the PPI network?  For example, how can I determine if the network is scale-free? Use Cytoscape as an example tool. 
 
 Cytoscape has a built in analyze software, using the network analysis functions under the tools menu will produce degree distribution, degree of each node, and the average degree. To determine if a network is scale free the degree of distribution must be plotted on a log-log scale. Scale-free networks will display a straight line showing a linear relationship. If the plot is not linear the network may not be scale free and could show a different distribution such as Poisson. 
@@ -68,6 +69,8 @@ Cytoscape has a built in analyze software, using the network analysis functions 
 * How can I find pathway and disease enrichment for these genes?  Use Toppfun as an example.
 
 To find pathway and disease enrichment for seed genes Toppfun can be used to analyze based on 14 different annotations categories. These include GO terms, pathways, protein–protein interactions, protein functional domains, and transcription factor-binding sites for example. Toppfun allow the choice of analysis type such as pathway or disease. Pathway enrich identifies overrepresented pathways compared to a background set of genes. Disease enrichment uses databases such as OMIM to identify diseases associated with seed genes. Toppfun results interpretation provide information such as disease name, number of genes associated, and statistical significance score of pathway and disease enrichment results. This is an example of result visualization for Toppfun. 
+![image](https://github.com/user-attachments/assets/da54422f-9e1f-4f19-a910-ea3d581a8c80)
+
 
 ## Tissue Specific eQTL's
 1. Significant eQTLs have been identified in whole blood for FLT3 1 (Fms Related Receptor Tyrosine Kinase 3): Mutations in the FLT3 occur frequently with mutations in some other genes, especially the DNMT3A gene which is also another gene that is abnormally expressed that is associated with Leukemia:
