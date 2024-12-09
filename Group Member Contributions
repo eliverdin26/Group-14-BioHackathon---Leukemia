@@ -3,4 +3,4 @@ Eli: Created the GitHub repository for group and all of the files in the reposit
 Belol: Collected a list of underlying genes using Prometheus and posted them into the report
 Maggie:
 Sadin:
-Shamaya:
+Shamaya:  Built a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds. Provided explaintion of process using Prometheus prompts.  
