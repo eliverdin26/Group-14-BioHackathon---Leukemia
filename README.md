@@ -86,3 +86,25 @@ To find pathway and disease enrichment for seed genes Toppfun can be used to ana
 5. TET2 has significant eQTLs in whole blood 1. Mutations in TET2, along with DNMT3A and IDH1/2, are known to affect hematopoiesis and contribute to the development of pre-leukemic stem cells.
 
 ## Hypothesis
+#### Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
+#### Design an experiment to test the hypothesis that your PPI genetic subsytem network could lead to non wild-type gene expression.
+
+Mutations in TET2, DNMT3A, IDH1, and IDH2 in whole blood are known to affect hematopoiesis and contribute to the development of pre-leukemic stem cells which lead to the expression of Leukemia. 
+
+Below is an appropriate method for testing the proposed hypothesis that the PPI genetic subsystem network could lead to the expression of Leukemia 
+
+- 1) Begin by culturing cells from leukemia cell lines and healthy cell lines.
+- 2) Extract total RNA from untreated leukemia cells and control (healthy) cells, perform RNA-seq, and analyze RNA-seq data.
+- 3) Use CRISPR-Cas9 guide RNAs targeting TET2, DNMT3A, IDH1, and IDH2 genes from the PPI network.
+- 4) Transfect cells and confirm knockdown efficiency using qPCR.
+- 5) Complete a Protein-level analysis by Performing Western blots for key proteins in the network, using co-immunoprecipitation to confirm specific PPIs.
+- 6) Measure cell proliferation, Assess apoptosis and Analyze cell cycle distribution.
+- 7) Perform a Bioinformatics Integration using Cytpscape for network visualization and analysis then performing pathway enrichment analysis using KEGG database and then Integrating gene expression data with PPI network to identiy critical nodes and edges.
+- 8) Complete in vivo Validation by injecting NOD/SCID mice with perturbed leukemia cells and control cells, monitoring leukemia progression through blood counts and imaging, then analyse harvested cells for gene expression and protein levels.
+- 9) Analyze all Data outcomes by comparing gene expression profiles between perturbed and control conditions, Identifying genes and pathways significanlty altered by network perturbations, correlating expression changes with functional outcomes and using network analysis to understand how perturbations propagated through the PPI system.
+- 10) Reject or accept null hypothesis.
+
+Prometheus was used to create a template for the hypothesis and experiement using the following prompts:
+
+ - "How to Construct an hypothesis that the genes caused the disease phenotype by mechanism X."
+ - "How to Design an experiment to test the hypothesis that your PPI genetic subsytem network could lead to non wild-type gene expression of leukemia."
